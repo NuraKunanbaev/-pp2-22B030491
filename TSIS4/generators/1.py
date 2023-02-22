@@ -1,6 +1,3 @@
-def square(n):
-    for i in range(1, n) :
-       k = i ** 2
-if __name__ == '__main__' :
-    print(k)
-    square()
+n = int(input())
+x = [i**2 for i in range(1, n)]
+print(x)
