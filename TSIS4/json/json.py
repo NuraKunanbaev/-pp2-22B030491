@@ -1,6 +1,6 @@
 import json
 
-with open("sample_data.json", "r") as read_file:
+with open("interface-data.json", "r") as read_file:
     data = json.load(read_file)
     print(data)
     print("""Interface Status================================================================================""")
