@@ -1,10 +1,13 @@
-def gensquares(N):
+def generator(N):
     for i in range(1, N): 
         yield i**2
 
 
-
-
-N = int(input())
-for x in gensquares(N):
+for x in generator(10):
     print(x)
+
+
+
+# n = int(input())
+# x = [i**2 for i in range(1, n)]
+# print(x)
