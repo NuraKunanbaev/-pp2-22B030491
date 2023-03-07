@@ -1,3 +1,4 @@
+# area
 import math
 h = int(input("Height: "))
 a = int(input("Base, first value: "))

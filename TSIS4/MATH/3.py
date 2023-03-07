@@ -1,3 +1,4 @@
+#area polygon
 from math import tan, pi
 a = int(input("Input number of sides: "))
 b = int(input("Input the length of a side: "))
