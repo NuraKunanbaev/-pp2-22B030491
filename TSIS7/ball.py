@@ -21,7 +21,7 @@ ball_y = screen_height // 2
 background_color = (255, 255, 255)
 
 # set movement variables
-move_distance = 20
+move_distance = 25
 
 # game loop
 running = True
