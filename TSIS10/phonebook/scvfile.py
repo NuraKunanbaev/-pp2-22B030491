@@ -1,1 +1,1 @@
-Rozi Mirbulatov  87475187416
+Nurzhan Kurmangazy +77771112233

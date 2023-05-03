@@ -31,7 +31,7 @@ def main():
                     cursor.execute(f"""INSERT INTO phonebook3(first_name,last_name, phone_number)
                     VALUES ('{name_to_insert}', '{last_name}', '{number_to_insert}')""")
             except Exception as ex:
-                print("You stupid nigga write your phone number correct ")
+                print("You need to write your phone number correct ")
         elif a == 4:
             with connection.cursor() as cursor:
                 if mode=='ASC':

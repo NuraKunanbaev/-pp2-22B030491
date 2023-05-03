@@ -1,9 +1,9 @@
 import psycopg2
 
 hostname = 'localhost'
-database = 'SNAKE'
+database = 'postgres'
 username = 'postgres'
-pwd = 'Nurtay2006@'
+pwd = 'Nurasyl4'
 port_id = 5432
 conn = None
 cur = None
